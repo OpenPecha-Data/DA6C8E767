@@ -43,72 +43,84 @@ annotations:
     span:
       start: 6158
       end: 7671
+    note_ref: cef41bd1a95c48cab4c2d409117a456b
   6c9c2b5945b64e3eb83fe51672b80545:
     imgnum: 1557
     reference: ''
     span:
       start: 7673
       end: 9032
+    note_ref: cef41bd1a95c48cab4c2d409117a456b
   825dfdead7b4428abf16395abe90da22:
     imgnum: 1558
     reference: ''
     span:
       start: 9034
       end: 10357
+    note_ref: cef41bd1a95c48cab4c2d409117a456b
   b923da4247694b1ba47bcb721ba3924c:
     imgnum: 1559
     reference: ''
     span:
       start: 10359
       end: 11675
+    note_ref: cef41bd1a95c48cab4c2d409117a456b
   85a095b7747649f79a4450084c6376e9:
     imgnum: 1560
     reference: ''
     span:
       start: 11677
       end: 12966
+    note_ref: cef41bd1a95c48cab4c2d409117a456b
   59620b3211ab40059e80893482e9588e:
     imgnum: 1561
     reference: ''
     span:
       start: 12968
       end: 14294
+    note_ref: cef41bd1a95c48cab4c2d409117a456b
   263dc5c644014f8c89d4dde33b65e7bd:
     imgnum: 1562
     reference: ''
     span:
       start: 14296
       end: 15652
+    note_ref: cef41bd1a95c48cab4c2d409117a456b
   37bb270d3be64ea699cd0e1e523c5862:
     imgnum: 1563
     reference: ''
     span:
       start: 15654
       end: 16958
+    note_ref: cef41bd1a95c48cab4c2d409117a456b
   a68a4fc215e947e5909ed3ad01d13b21:
     imgnum: 1564
     reference: ''
     span:
       start: 16960
       end: 18170
+    note_ref: cef41bd1a95c48cab4c2d409117a456b
   548c0ea00f3d4a9581854a586a22c204:
     imgnum: 1565
     reference: ''
     span:
       start: 18172
       end: 19545
+    note_ref: cef41bd1a95c48cab4c2d409117a456b
   8810debc66db44b59318b2a56f32a6b1:
     imgnum: 1566
     reference: ''
     span:
       start: 19547
       end: 21016
+    note_ref: cef41bd1a95c48cab4c2d409117a456b
   e34941be249248e88cc936c01ecb9cae:
     imgnum: 1567
     reference: ''
     span:
       start: 21018
       end: 22272
+    note_ref: cef41bd1a95c48cab4c2d409117a456b
   ee4ad462c3e049b990199c75776ede4e:
     imgnum: 1568
     reference: ''
@@ -164,6 +176,7 @@ annotations:
     span:
       start: 31531
       end: 32914
+    note_ref: 9884ce42a9204b6f8cacabf207bf3422
   263fa9e52ca6465883855880aeefda17:
     imgnum: 1576
     reference: ''
